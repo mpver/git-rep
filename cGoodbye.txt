@@ -1,1 +1,2 @@
 guiStopGreetings();
+writeline('What's all!');
