@@ -1,1 +1,2 @@
 writeln('Hello, wrold!');
+writeln('Hello everybody!');
